@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>latitud</key>
+		<string>-12.076527</string>
+		<key>logitud</key>
+		<string>-77.080851</string>
+		<key>nombre</key>
+		<string>Plaza San Miguel</string>
+		<key>direccion</key>
+		<string>Av Universitaria SN, San Miguel</string>
+	</dict>
+	<dict>
+		<key>latitud</key>
+		<string>-12.077812</string>
+		<key>logitud</key>
+		<string>-77.089850</string>
+		<key>nombre</key>
+		<string>UPC San Miguel</string>
+		<key>direccion</key>
+		<string>Av La marina SN, San Miguel</string>
+	</dict>
+	<dict>
+		<key>latitud</key>
+		<string>-12.130638</string>
+		<key>logitud</key>
+		<string>-76.974740</string>
+		<key>nombre</key>
+		<string>UPC Monterrico</string>
+		<key>direccion</key>
+		<string>Av Primavera, SN, Monterrico</string>
+	</dict>
+</array>
+</plist>
